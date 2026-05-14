@@ -1,0 +1,9 @@
+ms-azuretools.vscode-docker
+eamodio.gitlens
+yzhang.markdown-all-in-one
+redhat.vscode-yaml
+hashicorp.terraform
+continue.continue
+ms-vscode-remote.remote-ssh
+hediet.vscode-drawio
+usernamehw.errorlens
